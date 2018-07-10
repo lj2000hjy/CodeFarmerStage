@@ -28,7 +28,7 @@
 			</div>
 		</div>
 	</div>
-	<div id="bottom">版权所有 © 2018-2019 <a href="http://www.jacklau2018.com/" title="码农们的聚集地,编程无国界,经验才是王道！">编程译站</a>  <a href="http://www.miitbeian.gov.cn/" target="_blank">沪ICP备11016120号</a> </div>
+	<div id="bottom">版权所有 © 2018-2019 <a href="http://www.jacklau2018.com/" title="码农们的聚集地,编程无国界,经验才是王道！">编程译站</a>  联系我: <a href="mailto:admin@jacklau2018.com">admin@jacklau2018.com</a> <a href="http://www.miitbeian.gov.cn/" target="_blank">沪ICP备11016120号</a> </div>
 <script type="text/javascript">
 	<?php
 	$left_day = abs(strtotime('2018-09-01 23:59:59') - strtotime(date('Y-m-d H:i:s')));
